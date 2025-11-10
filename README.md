@@ -4,3 +4,5 @@ Input from local repo to be pushed to remote repo
 
 
 Input from local repo to be pushed to remote repo using RStudio/VS code.
+
+Input from remote repo to be pulled to local repo using IDE."
